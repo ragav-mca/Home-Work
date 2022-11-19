@@ -1,2 +1,2 @@
 # Home-Work
-Python Basics Home Work - Grades, Marks, College
+Python Basics Home Work - Strings
